@@ -32,5 +32,7 @@ int main(){
 
     cout<<"modify in submodule of Test repository"<<endl;
 
+    cout<<"test merge modify1"<<end;
+
     return 0;
 }
