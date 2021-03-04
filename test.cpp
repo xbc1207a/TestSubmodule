@@ -32,11 +32,8 @@ int main(){
 
     cout<<"modify in submodule of Test repository"<<endl;
 
-<<<<<<< HEAD
     cout<<"test merge conflict1"<<endl;
-=======
     cout<<"test merge modify1"<<end;
->>>>>>> ubuntu_branch
 
     return 0;
 }
